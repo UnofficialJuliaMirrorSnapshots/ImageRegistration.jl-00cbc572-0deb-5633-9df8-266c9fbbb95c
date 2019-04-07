@@ -1,0 +1,11 @@
+_archive/
+EM_images/
+*.pyc
+*.jl~
+*.swp
+*.tif
+*.swo
+bucket_dir_path.txt
+bucket_dir_path.txt~
+*.jld
+.DS_Store
